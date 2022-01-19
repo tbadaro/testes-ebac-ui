@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tbadaro/testes-ebac-ui#readme",
   "devDependencies": {
     "cypress": "^9.3.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
   }
 }
